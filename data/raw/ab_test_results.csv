@@ -1,0 +1,11 @@
+Metric,Value
+Total Users,"290,584"
+Control Users,"145,274"
+Treatment Users,"145,310"
+Control Conv Rate,12.0386%
+Treatment Conv Rate,11.8808%
+Difference,-0.1578%
+Z-Statistic,1.3109
+P-Value,0.1899
+Significant,No (p > 0.05)
+Verdict,Keep Old Page
